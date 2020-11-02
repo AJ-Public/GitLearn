@@ -1,0 +1,7 @@
+Stash
+Rebase
+Merge
+Fetch
+Commit history
+Branch
+Pull Request
